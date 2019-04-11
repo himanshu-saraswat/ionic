@@ -57,7 +57,8 @@ export const config: Config = {
   outputTargets: [
     {
       type: 'dist',
-      esmLoaderPath: '../loader'
+      esmLoaderPath: '../loader',
+      resourcesUrl:'https://ng.ucdn.in'
     },
     {
       type: 'docs',
