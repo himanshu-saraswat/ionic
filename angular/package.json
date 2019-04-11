@@ -45,7 +45,7 @@
     "css/"
   ],
   "dependencies": {
-    "@ionic/core": "4.2.0",
+    "@ionic/core": "git@github.com:himanshu-saraswat/ionic.git#master",
     "tslib": "^1.9.3"
   },
   "peerDependencies": {

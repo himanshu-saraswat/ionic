@@ -14,7 +14,6 @@ log.txt
 .versions/
 coverage/
 collection/
-dist/
 node_modules/
 tmp/
 temp/
